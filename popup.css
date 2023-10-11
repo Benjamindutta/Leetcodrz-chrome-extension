@@ -1,0 +1,45 @@
+body {
+    height: 800px;
+}
+
+.button__class {
+    width: 60%;
+    height: 30%;
+    border-radius: 2rem;
+    border: none;
+    background-color: yellow;
+    color: blue;
+    font-weight: 400;
+    box-shadow: rgba(249, 249, 3, 0.747) 0px 5px 15px;
+}
+
+.img__class {
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+body {
+    width: 300px;
+    height: 100px;
+    background-color: #1A202C;
+    border-radius: 3rem;
+}
+
+.button__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+
+.result_div {
+    margin-bottom: 4px;
+    color: white;
+}
+
+#signin_tag {
+    color: green;
+    margin-bottom: 4px;
+    cursor: pointer;
+}
